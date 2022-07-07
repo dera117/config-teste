@@ -2,3 +2,4 @@ config:
     -nike
     -addidas
     puma
+    bonjour
